@@ -5,6 +5,7 @@
   "author": "ELEVEN <lov.2014@gmail.com>",
   "private": true,
   "dependencies": {
+    "base64-js": "^1.2.1",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "numeral": "^2.0.6",
